@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/NeoDragonCP/password-generator/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/NeoDragonCP/password-generator/static/js/main.11700ee0.chunk.js",
-    "main.js.map": "/NeoDragonCP/password-generator/static/js/main.11700ee0.chunk.js.map",
-    "runtime-main.js": "/NeoDragonCP/password-generator/static/js/runtime-main.4d82fd4f.js",
-    "runtime-main.js.map": "/NeoDragonCP/password-generator/static/js/runtime-main.4d82fd4f.js.map",
-    "static/js/2.dd8ae336.chunk.js": "/NeoDragonCP/password-generator/static/js/2.dd8ae336.chunk.js",
-    "static/js/2.dd8ae336.chunk.js.map": "/NeoDragonCP/password-generator/static/js/2.dd8ae336.chunk.js.map",
-    "index.html": "/NeoDragonCP/password-generator/index.html",
-    "precache-manifest.d2f50e914598ba493453dfd081986619.js": "/NeoDragonCP/password-generator/precache-manifest.d2f50e914598ba493453dfd081986619.js",
-    "service-worker.js": "/NeoDragonCP/password-generator/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/NeoDragonCP/password-generator/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.dd8ae336.chunk.js.LICENSE.txt": "/NeoDragonCP/password-generator/static/js/2.dd8ae336.chunk.js.LICENSE.txt"
+    "main.css": "/password-generator/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/password-generator/static/js/main.43209d36.chunk.js",
+    "main.js.map": "/password-generator/static/js/main.43209d36.chunk.js.map",
+    "runtime-main.js": "/password-generator/static/js/runtime-main.24882af2.js",
+    "runtime-main.js.map": "/password-generator/static/js/runtime-main.24882af2.js.map",
+    "static/js/2.da94a5a7.chunk.js": "/password-generator/static/js/2.da94a5a7.chunk.js",
+    "static/js/2.da94a5a7.chunk.js.map": "/password-generator/static/js/2.da94a5a7.chunk.js.map",
+    "index.html": "/password-generator/index.html",
+    "precache-manifest.784880cbef33e1a6c4cd225f4ca6412e.js": "/password-generator/precache-manifest.784880cbef33e1a6c4cd225f4ca6412e.js",
+    "service-worker.js": "/password-generator/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/password-generator/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.da94a5a7.chunk.js.LICENSE.txt": "/password-generator/static/js/2.da94a5a7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d82fd4f.js",
-    "static/js/2.dd8ae336.chunk.js",
+    "static/js/runtime-main.24882af2.js",
+    "static/js/2.da94a5a7.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.11700ee0.chunk.js"
+    "static/js/main.43209d36.chunk.js"
   ]
 }

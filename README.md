@@ -16,6 +16,5 @@ I also was trying out using Styled-Components for the first time and I really en
 I am uploading this because I am interested in front-end development.
 It's only intended to be a fun portfolio piece.
 Be sure to check out the dev branch to see the code.
-
 Feel free to look around and feedback is always welcome.
 At me on Twitter: https://twitter.com/stephenmcvicker

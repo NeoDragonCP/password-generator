@@ -4,7 +4,7 @@ By Stephen McVicker
 ![Screenshot](https://i.imgur.com/8zuSuu6.png)
 Screenshot
 
-Video: https://twitter.com/i/status/1224817006710489089
+Video: https://twitter.com/stephenmcvicker/status/1230216407868223488
 
 Try: https://neodragoncp.github.io/password-generator/
 

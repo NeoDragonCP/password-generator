@@ -2,7 +2,7 @@
 By Stephen McVicker
 
 ![Screenshot](https://i.imgur.com/8zuSuu6.png)
-Desktop version
+Screenshot
 
 Video: https://twitter.com/i/status/1224817006710489089
 
